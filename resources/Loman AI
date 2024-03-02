@@ -1,0 +1,10 @@
+// resources/f.ts
+
+{
+    name: 'Loman AI',
+    description:
+        'Loman is an AI phone answering and website chat platform that can take calls, chat with customers on your website, and capture inbound leads anytime, day or night, even when you can't. Loman can converse with a prospective customer, route calls, generate quotes and estimates, answer questions, and do anything a human sales agent can do.',
+    categories: ['AI Tools', 'Sales'],
+    url: 'https://loman.ai',
+    keywords: ['AI', 'SaaS', 'VOIP', 'AI Sales Agent', 'AI phone answering', 'AI sales tools', 'AI receptionist], // Optional, but used on the search feature on the website
+},
